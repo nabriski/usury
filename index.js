@@ -35,7 +35,6 @@ Usury.addUser = function(name,password,cb){
 //----------------------------------------------------
 Usury.getUser = function(field,value){
 
-
 	var query = {};
 	query[field] = value;
 
