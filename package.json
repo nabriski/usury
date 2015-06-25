@@ -1,0 +1,23 @@
+{
+  "name": "usury",
+  "version": "0.0.1",
+  "description": "user management, account mangement",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "user",
+    "users",
+    "account",
+    "accounts",
+    "management"
+  ],
+  "author": "Itamar Nabriski",
+  "license": "ISC",
+  "dependencies": {
+    "lowdb": "^0.10.0",
+    "moment": "^2.10.3",
+    "node-uuid": "^1.4.3"
+  }
+}
